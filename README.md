@@ -1,7 +1,7 @@
 # cocktail-api
 
 YouTube tutorial: https://www.youtube.com/watch?v=ngc9gnGgUdA
-Timestamp: 28:50
+Timestamp: 48:47
 
 MongoDB database user
 Name: shawnweigand
